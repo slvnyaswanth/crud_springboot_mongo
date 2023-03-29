@@ -1,0 +1,7 @@
+com\restApplication\servers\controller\ServersController.class
+com\restApplication\servers\entity\ServersEntity.class
+com\restApplication\servers\service\ServersServiceImpl.class
+com\restApplication\servers\bean\ServersBean.class
+com\restApplication\servers\service\ServersService.class
+com\restApplication\servers\repository\ServersRepository.class
+com\restApplication\servers\ServersApiApplication.class
